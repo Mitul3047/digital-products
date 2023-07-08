@@ -65,13 +65,70 @@
 
 .more{
     
-    background-color: white;
-    color: orangered;
+    color: white;
+    background-color: orangered;
     padding: 10px;
     border: 2px solid rgba(128, 128, 128, 0.664);
     border-radius: 3px;
 }
 .more:hover{
-    color: white;
-    background-color: orangered;
+    
+    background-color: wheat;
+    color: orangered;
 }
+
+/* .about-logo{
+    width: 300px;
+}
+*/
+.about-title-img{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.about-title{
+    padding: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+/* .about{
+    height: 100vh;
+} */
+.service-sec{
+    background-image: url("./images/background.png"),linear-gradient(45deg,rgb(14, 13, 13), rgb(119, 105, 105) );
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+    text-align: center;
+    
+} 
+.icon{
+    width: 250px;
+ }
+ .box{
+    background-color: black;
+    width: 300px;
+    color: white;
+    padding: 20px;
+    box-shadow: 4px 4px 15px gray;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  */
+  text-align: center;
+  border-radius: 17px;
+ }
+
+ .box-container{
+    display: flex;
+    justify-content: space-around;
+ }
+
+
+ 
