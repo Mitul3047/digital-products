@@ -8,3 +8,27 @@
     /* cursor: pointer; */
     cursor: url("https://banner2.cleanpng.com/20180328/lzq/kisspng-emoji-emoticon-iphone-emoji-5abb33f993f496.105646191522217977606.jpg"),auto
 }
+
+
+.container{
+    
+    display: flex;
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+    justify-content: space-around;
+    /* align-content: center; */
+    height: ;
+}
+.box1{
+    background-color: aqua;
+    width: 200px;
+}
+.box2{
+    background-color: rgb(218, 162, 11);
+    width: 200px;
+}
+.box3{
+    background-color: rgb(201, 23, 112);
+    width: 200px;
+}
