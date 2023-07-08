@@ -45,4 +45,33 @@
     border: 2px solid gray;
     background-image: url("./images/background.png"),linear-gradient(45deg,rgb(14, 13, 13), rgb(119, 105, 105) );
     color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.title{
+    font-size: 55px;
+    color: orangered;
+    font-weight: bold;
+}
+
+.title-des{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+
+.more{
+    
+    background-color: white;
+    color: orangered;
+    padding: 10px;
+    border: 2px solid rgba(128, 128, 128, 0.664);
+    border-radius: 3px;
+}
+.more:hover{
+    color: white;
+    background-color: orangered;
 }
