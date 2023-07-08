@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.test:hover{
+    color: red;
+    /* cursor: pointer; */
+    cursor: url("https://banner2.cleanpng.com/20180328/lzq/kisspng-emoji-emoticon-iphone-emoji-5abb33f993f496.105646191522217977606.jpg"),auto
+}
